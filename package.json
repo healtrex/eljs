@@ -2,7 +2,7 @@
   "name": "calculator",
   "version": "1.0.0",
   "description": "node and react calculator app",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
     "test": "mocha --reporter spec"
   },
